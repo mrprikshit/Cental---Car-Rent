@@ -1,9 +1,9 @@
   =>  Template Name    : Cental - Car Rent Website Template
 
-  =>  Template Link    : https://htmlcodex.com/car-rent-website-template
+  =>  Template Link    : https://phpcodex.com/car-rent-website-template
 
-  =>  Template License : https://htmlcodex.com/license (or read the LICENSE.txt file)
+  =>  Template License : https://phpcodex.com/license (or read the LICENSE.txt file)
 
-  =>  Template Author  : HTML Codex
+  =>  Template Author  : php Codex
 
-  =>  Author Website   : https://htmlcodex.com
+  =>  Author Website   : https://phpcodex.com
